@@ -1,0 +1,44 @@
+text@a1970	@a1970	10.02	14.82	4.8	по-вашему Северный Кавказ сильно изменился за двадцать лет после распада Советского Союза? //
+text@a1970	@a1970	14.98	28.41	13.43	появилось ли что-то новое что принципиально отличное в обществе / в обыденной жизни во взглядах на окружающий мир / ээ населения Северного Кавказа / за последние ну скажем может быть десять пятнадцать лет? //
+text@aaa1942m	@aaa1942m	29.35	35.57	6.22	знаете я хотел бы Кавказ вот поделить бы / городская население и сельское население //
+text@aaa1942m	@aaa1942m	36.69	43.09	6.4	э понимаете если в целом какой-то бо... больной организм болит все тело / естественно //
+text@aaa1942m	@aaa1942m	44.06	54.13	10.07	и не... не могло быть значит том чтобы / в России идет полный развал государства идет / хищническое поглощение все то что им не принадлежит //
+text@aaa1942m	@aaa1942m	55.08	60.66	5.58	и когда грабили даже то что нашим внукам правнукам принадлежит и в долги вгоняли детей // 
+text@aaa1942m	@aaa1942m	61.09	65.31	4.22	ну не могла эта ээ зараза не достигнуть и Кавказа //
+text@aaa1942m	@aaa1942m	65.56	75.0	9.44	там тоже было ну джин был выпущен и / аа вот это / аа богатей любыми путями здесь не должно никаких моральных тормозов оно тоже пришла туда //
+text@aaa1942m	@aaa1942m	76.56	87.75	11.19	ии аа значит произошло такая / аа в немалой части молодежи да и старой гвардии / что аа / для них главное в жизни стали деньги //
+text@aaa1942m	@aaa1942m	88.48	99.68	11.2	власть и деньги деньги и власть / затратить деньги чтоб прийти к власти и власть использовать для того чтоб зарабатывать аа /  большие деньги ну она практически и по всей Российской Федерации //
+text@aaa1942m	@aaa1942m	100.45	108.69	8.24	очень серьезную ошибку совершают некоторые политики и журналисты когда говорят что Кавказ это сама корпорация коррупции //
+text@aaa1942m	@aaa1942m	110.48	118.2	7.72	для Кавказа взятки которые вот здесь вот там в Москве в других местах какие взятки берутся в Кавказе не снилось в самом дурном сне //
+text@aaa1942m	@aaa1942m	119.675	122.755	3.08	там не снились / таких взяток и быть там не может //
+text@aaa1942m	@aaa1942m	123.97	142.62	18.65	поэтому аа / что у них там плохо у нас говорить любят и теперь / вот это аа наветы которые #нрзб# да действительно есть и корпоративность взяточни... есть кланы приходят к власти и только представитель клана имеет возможность там занять какие-то государственные должности / все это есть //
+text@aaa1942m	@aaa1942m	143.43	148.75	5.32	есть продажность и правоохранительной системы и судебной системы и так далее / но вы мне назовите где это нет? //
+text@aaa1942m	@aaa1942m	149.97	152.13	2.16	везде к сожалению есть / везде! //
+text@aaa1942m	@aaa1942m	153.4	157.79	4.39	у нас даже почти во всех вузах таких даже престижных вузов тоже распространено взяточничество // 
+text@aaa1942m	@aaa1942m	159.11	162.94	3.83	но говорить что там борьба не идет не ведется тоже неправильно это делается //
+text@aaa1942m	@aaa1942m	163.56	168.98	5.42	аа на Кавказе очень болезненно воспринимают значит демонизация выходцев с Кавказа //
+text@aaa1942m	@aaa1942m	169.69	171.07	1.38	она идет повсеместно //
+text@aaa1942m	@aaa1942m	171.855	176.575	4.72	она идет и в электронных средставх массовой информации и печати и так далее я еще раз повторяю что //
+text@aaa1942m	@aaa1942m	177.15	190.4	13.25	банальные факты которые ну ни в коей с... мере не стоило раздувать потому что в советское время были и как вот к бытовым относились / мы из них делаем национальный проект национальный проект по рас... р... по развалу России я считаю это //
+transl@a1970	@a1970	10.02	14.82	4.8	do you think the North Caucasus has changed a lot after the collapse of the Soviet Union?
+transl@a1970	@a1970	14.98	28.41	13.43	is there something new that is completely different in public or private life, in world views of the population of the North Caucasus for the last maybe ten to fifteen years? 
+transl@aaa1942m	@aaa1942m	29.35	35.57	6.22	you know, i would like to divide the Caucasus into urban and rural populations.
+transl@aaa1942m	@aaa1942m	36.69	43.09	6.4	you see, if some part of the body is ill, the whole body is ill, obviously.
+transl@aaa1942m	@aaa1942m	44.06	54.13	10.07	and there is a complete collapse of the state in Russia, there is a predatory absorption of all things that do not belong to them.
+transl@aaa1942m	@aaa1942m	55.08	60.66	5.58	 and when everyone was trying to steal some property of our grandchildren and great grandchildren and make them be obligated.
+transl@aaa1942m	@aaa1942m	61.09	65.31	4.22	so this also touched the Caucasus.
+transl@aaa1942m	@aaa1942m	65.56	75.0	9.44	there was a rule - get rich in any way, and it did not have any moral threshold.
+transl@aaa1942m	@aaa1942m	76.56	87.75	11.19	and for a considerable part of young people and also old generation money became the main thing in their life.
+transl@aaa1942m	@aaa1942m	88.48	99.68	11.2	power and money, money and power. spend money to get power and use of power to make a lot of money, but this happens almost everywhere in the Russian Federation.
+transl@aaa1942m	@aaa1942m	100.45	108.69	8.24	it is a big mistake of many journalists and politicians to say that the Caucasus is a corporation of corruption.
+transl@aaa1942m	@aaa1942m	110.48	118.2	7.72	bribes are not as big there as they are in Moscow. you could not even see such bribes in the worst dreams.
+transl@aaa1942m	@aaa1942m	119.675	122.755	3.08	there cannot be such bribes here.
+transl@aaa1942m	@aaa1942m	123.97	142.62	18.65	people like to say that it is bad there. of course, there is a corruption there, there is a nepotism. there are clans in power and only clan's representatives  can take a governmental positions. all this exists.
+transl@aaa1942m	@aaa1942m	143.43	148.75	5.32	there is a corruption of both law enforcement and judicial agencies. but tell me where there is no such thing?
+transl@aaa1942m	@aaa1942m	149.97	152.13	2.16	unfortunately, it is everywhere. everywhere!
+transl@aaa1942m	@aaa1942m	153.4	157.79	4.39	corruption exists even in our universities, even prestigious universities.
+transl@aaa1942m	@aaa1942m	159.11	162.94	3.83	but it is wrong to say there are no activities against it. it is being done.
+transl@aaa1942m	@aaa1942m	163.56	168.98	5.42	demonization of people from Caucasus is really painful for the Caucasus.
+transl@aaa1942m	@aaa1942m	169.69	171.07	1.38	and it happens everywhere.
+transl@aaa1942m	@aaa1942m	171.855	176.575	4.72	it is in all kinds of media. i repeat one more time.
+transl@aaa1942m	@aaa1942m	177.15	190.4	13.25	there are just trite facts that we should not present as problems because they were casual in Soviet times. we do the national project... the project of the collapse of Russia.
